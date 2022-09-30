@@ -394,11 +394,11 @@ font-size: 18px;
                     }
                     
                     .project-item .more:before {
-                        content: "read more";
+                        content: "Read more";
                     }
                     
                     .project-item.active .more:before {
-                        content: "read less";
+                        content: "Read less";
                     }
                     /*** Team ***/
                     
