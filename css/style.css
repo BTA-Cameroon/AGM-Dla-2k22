@@ -539,7 +539,6 @@ font-size: 18px;
                     
                     @media (max-width: 767px) {
                         #social_media {
-                            text-align: center;
-                            margin-left: 50px;
+                            justify-content: center;
                         }
                     }
